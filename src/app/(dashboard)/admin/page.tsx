@@ -39,7 +39,10 @@ const AdminPage = () => {
       {/* RIGHT */}
       <div className="w-full lg:w-1/3 flex flex-col gap-8">
         <EventCalendar />
+<<<<<<< HEAD
         <Announcements />
+=======
+>>>>>>> ace3fc213010ca2bfaeb3e1886208f71e62aa844
       </div>
     </div>
   );
